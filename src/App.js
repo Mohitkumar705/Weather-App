@@ -10,13 +10,13 @@ function App() {
       </div>
       <div className="footer-info">
           Weather App
-        | Developed by
+        | Developed by 
         <a href="https://github.com/Mohitkumar705/">
-          Smriti Agarwal
+        |  Mohit Kumar 
         </a>
-        | Powered by
+         |  Powered by 
         <a  href="https://legacy.reactjs.org/">
-          React 
+        |  React 
         </a>
       </div>
     </React.Fragment>
