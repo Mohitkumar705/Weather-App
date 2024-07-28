@@ -8,8 +8,8 @@ function App() {
       <div className="container">
         <CurrentLocation />
       </div>
-      <div className="footer-info">
-          Weather App
+      <div className="footer-info"> 
+          Weather App 
         | Developed by 
         <a href="https://github.com/Mohitkumar705/">
         |  Mohit Kumar 

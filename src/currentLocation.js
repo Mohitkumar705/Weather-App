@@ -14,11 +14,11 @@ const dateBuilder = (d) => {
     "June",
     "July",
     "August",
-    "September",
+    "September", 
     "October",
     "November",
     "December",
-  ];
+  ]; 
   let days = [
     "Sunday",
     "Monday",

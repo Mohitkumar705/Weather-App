@@ -652,9 +652,9 @@ div#txt {
 .mb-icon {
   height: 100%;
   position: absolute;
-  top: 34%;
+  top: 34%; 
   left: 36%;
-  z-index: 1;
+  z-index: 1; 
   display: none;
 }
 .mb-icon p {

@@ -15,10 +15,10 @@ function Forcast(props) {
           city != "[object Object]" ? city : query
         }&units=metric&APPID=${apiKeys.key}`
       )
-      .then((response) => {
+      .then((response) => { 
         setWeather(response.data);
         setQuery("");
-      })
+      }) 
       .catch(function (error) {
         console.log(error);
         setWeather("");
